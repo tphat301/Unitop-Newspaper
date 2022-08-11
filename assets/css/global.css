@@ -1,0 +1,12 @@
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.padding-left-right-10 {
+    padding: 0 10px;
+}
